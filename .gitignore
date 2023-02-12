@@ -1,0 +1,7 @@
+# Игнор-лист файлов проекта
+
+tmp/*
+*_old*
+*_backup*
+Thumbs.db
+*.DS_Store
